@@ -36,7 +36,6 @@ simple-gui-drag-and-drop/
             └── js_total.json
 
 extended description:
-Sure, here's a comprehensive description of the script and all non-standard functions:
 
 The script is designed to create a GUI layout using the PySimpleGUI library by providing a drag-and-drop interface for designing the layout. It reads the available components and their attributes from a JSON file, and allows the user to modify these attributes as needed. Once the layout is designed, it generates the layout in a new window.
 
